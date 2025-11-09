@@ -106,6 +106,35 @@ shl-recommendation-engine/
 - Data Validation & sanitization
 - Modular Architecture for scalability
 
+
+**Dataset Information**
+
+***Assessments Catalog (100+ entries)***
+- Technical Assessments: Programming, Data Science, ML
+- Cognitive Tests: Reasoning, Logic, Numerical
+- Behavioral Assessments: Personality, Communication
+- Domain-Specific: HR, Management, Analytics
+
+***Job Descriptions (20+ roles)***
+
+- AI/ML Roles: Research Intern, ML Engineer, Data Scientist
+- Analytics Roles: Business Analyst, Data Analyst
+- Technical Roles: Software Developer, Cloud Engineer
+- Business Roles: Product Manager, HR Analyst
+
+**Future Enhancements**
+
+- Docker Containerization for easy deployment
+- Comprehensive Test Suite with pytest
+- Real SHL API integration with official credentials
+- User authentication and personalized recommendations
+- A/B testing framework for algorithm evaluation
+- Advanced analytics dashboard for HR insights
+- Mobile-responsive design
+- Multi-language support
+
+
+
 🎯 **For SHL Evaluators**
 
 ***Key Demonstrations:***
@@ -123,11 +152,22 @@ shl-recommendation-engine/
 3. Explore the API simulation in sidebar
 4. Use filters and export functionality
 
+**License**
+
+This project is created for demonstration purposes as part of the SHL AI Research Intern application process.
+
+🙏 **Acknowledgments**
+
+- SHL for the opportunity and inspiration
+- Sentence-BERT team for the excellent embedding models
+- Streamlit team for the amazing web framework
+- Open-source community for invaluable tools and libraries
+
 👨‍💻 **Author**
 
 Aditya Kumar
 AI Research Intern Candidate
-Built specifically for SHL AI Research Intern position
+Built with passion for the SHL AI Research Intern position
 
 ---
 
