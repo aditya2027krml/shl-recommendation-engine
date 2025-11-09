@@ -1,0 +1,21 @@
+job_id ,role,description,required_skills,domain,experience_level
+1,AI Research Intern,"Work on building and evaluating AI models for NLP, multimodal systems, and LLMs. Collaborate with researchers to enhance model performance and interpretability.","python, pytorch, nlp, deep learning, transformers",Artificial Intelligence,Intermediate
+2,Data Science Intern,"Support data-driven projects, perform exploratory analysis, feature engineering, and model training. Create visual reports to communicate insights effectively.","python, pandas, sklearn, data visualization",Data Science,Beginner
+3,Machine Learning Engineer,"Develop, deploy, and optimize ML models for real-world applications. Integrate solutions into production using cloud-based tools.","machine learning, tensorflow, cloud, deployment",AI Engineering,Intermediate
+4,Cognitive Research Analyst,Conduct psychometric data analysis and design experiments to study human reasoning and decision-making.,"statistics, psychology, data analysis, r",Cognitive Science,Beginner
+5,HR Analytics Associate,"Analyze employee data, identify engagement trends, and recommend data-backed talent strategies.","excel, sql, data visualization, reporting",Human Resources,Beginner
+6,Business Analyst,"Gather requirements, interpret business processes, and design analytical dashboards for performance tracking.","sql, powerbi, reasoning, problem solving",Business Analytics,Intermediate
+7,Product Data Associate,"Work with product teams to analyze usage data, identify user behavior patterns, and recommend product enhancements.","analytics, python, visualization, storytelling",Product Analytics,Beginner
+8,Communication Skill Evaluator,"Evaluate voice or text-based responses using NLP tools to score grammar, tone, and fluency.","nlp, text analysis, speech processing",Linguistics,Beginner
+9,Leadership Assessment Intern,Assist in designing leadership and personality profiling tests. Analyze participant data for performance trends.,"behavioral science, leadership, data interpretation",Organizational Psychology,Beginner
+10,Generative AI Engineer,Build and fine-tune large language models and multimodal AI pipelines using open-source frameworks.,"langchain, embeddings, openai, pytorch",AI Research,Advanced
+11,Cloud AI Developer,Implement scalable ML pipelines and APIs on cloud platforms. Focus on performance monitoring and deployment automation.,"aws, azure, docker, mlops",Cloud Computing,Intermediate
+12,Data Analyst,"Clean, preprocess, and visualize large datasets to support decision-making. Communicate results clearly to business stakeholders.","sql, python, tableau, data cleaning",Analytics,Beginner
+13,NLP Engineer,"Design and train models for text classification, summarization, and sentiment analysis using Transformer architectures.","huggingface, transformers, nlp, bert",Natural Language Processing,Intermediate
+14,Psychometric Test Developer,"Design and validate assessments to measure cognitive, emotional, and behavioral traits using psychometric techniques.","statistics, psychometrics, validation",Psychology,Advanced
+15,Speech Recognition Intern,Develop models for automatic speech recognition and grammar scoring from audio samples.,"asr, mfcc, deep learning, audio processing",Speech AI,Intermediate
+16,AI Ethics Researcher,"Study bias, fairness, and transparency in AI systems. Design metrics and frameworks for responsible AI.","ai ethics, fairness, data governance",Responsible AI,Intermediate
+17,Data Visualization Specialist,Create dashboards and visual stories from structured and unstructured data for leadership reporting.,"tableau, matplotlib, storytelling",Data Visualization,Beginner
+18,Emotion Recognition Intern,Build deep learning models for detecting emotional states from facial or vocal cues.,"cnn, opencv, multimodal ai",Computer Vision,Intermediate
+19,HR Tech Analyst,"Develop and test data models for recruitment analytics, candidate matching, and talent scoring.","python, nlp, data science",HR Tech,Beginner
+20,AI Product Intern,"Research AI-driven product ideas, create prototypes, and test them for scalability and ethical AI design.","ai research, product management, prompt engineering",AI Innovation,Intermediate
